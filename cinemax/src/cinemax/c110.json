@@ -1,0 +1,19 @@
+{
+    "store": [{
+            "Email": "",
+            "Movie Name": "John Wick",
+            "Gcash Number": "",
+            "Gcash Verification": "",
+            "Time": "10:00 AM",
+            "CVC\/CVV": "",
+            "Name": "",
+            "Card Name": "",
+            "Number of Tickets": "1",
+            "Expiry Date": "",
+            "Card Number": "",
+            "Phone Number": "",
+            "Seat No.": ["A1", "A2"]
+        }, {
+            "Seat no.": "a2"
+        }]
+}
